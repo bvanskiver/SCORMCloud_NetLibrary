@@ -37,7 +37,7 @@ namespace RusticiSoftware.HostedEngine.Client
         private string appId;
         private string securityKey;
         private string scormEngineServiceUrl;
-    	private string origin = "rusticisoftware.netlibrary.1.1.2";
+    	private string origin = "rusticisoftware.netlibrary.1.2.0";
 
         /// <summary>
         /// Single constuctor that contains the required properties

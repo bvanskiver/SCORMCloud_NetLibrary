@@ -56,10 +56,13 @@
     <Compile Include="ExportService.cs" />
     <Compile Include="FileData.cs" />
     <Compile Include="FtpService.cs" />
+    <Compile Include="InvitationInfo.cs" />
+    <Compile Include="InvitationService.cs" />
     <Compile Include="LaunchInfo.cs" />
     <Compile Include="ReportingService.cs" />
     <Compile Include="UploadResult.cs" />
     <Compile Include="UploadToken.cs" />
+    <Compile Include="UserInvitationStatus.cs" />
     <Compile Include="Utils.cs" />
     <Compile Include="WebControls\ImportControl.cs" />
     <Compile Include="ImportResult.cs" />
