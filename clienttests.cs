@@ -1,7 +1,7 @@
 /* Software License Agreement (BSD License)
  * 
  * Copyright (c) 2010-2011, Rustici Software, LLC
- * All rights reserved.
+ * All rights reserved.adfasdf
  * 
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted provided that the following conditions are met:
